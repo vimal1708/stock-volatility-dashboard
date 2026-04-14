@@ -21,3 +21,9 @@ An interactive web application to analyze financial market volatility using real
 - Pandas
 - Plotly
 - Yahoo Finance API
+
+## VS CODE > terminal
+Install dependencies:
+pip install streamlit yfinance pandas plotly
+run:
+python -m streamlit run volatility_analysis.py
